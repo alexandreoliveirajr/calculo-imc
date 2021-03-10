@@ -1,0 +1,10 @@
+C:\Users\famil\source\repos\Calculo_imc\bin\Debug\Calculo_imc.exe.config
+C:\Users\famil\source\repos\Calculo_imc\bin\Debug\Calculo_imc.exe
+C:\Users\famil\source\repos\Calculo_imc\bin\Debug\Calculo_imc.pdb
+C:\Users\famil\source\repos\Calculo_imc\obj\Debug\Calculo_imc.csprojAssemblyReference.cache
+C:\Users\famil\source\repos\Calculo_imc\obj\Debug\Calculo_imc.Form1.resources
+C:\Users\famil\source\repos\Calculo_imc\obj\Debug\Calculo_imc.Properties.Resources.resources
+C:\Users\famil\source\repos\Calculo_imc\obj\Debug\Calculo_imc.csproj.GenerateResource.cache
+C:\Users\famil\source\repos\Calculo_imc\obj\Debug\Calculo_imc.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Calculo_imc\obj\Debug\Calculo_imc.exe
+C:\Users\famil\source\repos\Calculo_imc\obj\Debug\Calculo_imc.pdb
